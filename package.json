@@ -1,0 +1,18 @@
+{
+  "name": "bootbox",
+  "version": "3.2.0",
+  "description": "Bootstrap dynamic modals",
+  "main": "bootbox.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/esk525/bootbox.git"
+  },
+  "author": "",
+  "license": "BSD"
+}
